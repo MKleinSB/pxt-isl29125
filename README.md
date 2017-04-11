@@ -5,6 +5,7 @@ This is a sensor package for the [PXT Calliope mini Editor](https://pxt.calliope
 ## Meta
 
 - for PXT/calliope
+- for PXT/microbit
 
 ## License
 
