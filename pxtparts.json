@@ -1,0 +1,35 @@
+{
+    "isl29125": {
+        "visual": {
+            "image": "parts/isl29125.svg",
+            "width": 58,
+            "height": 64,
+            "pinDistance": 7.2,
+            "pinLocations": [
+                {"x": 11, "y": 5},
+                {"x": 18.2, "y": 5},
+                {"x": 25.4, "y": 5},
+                {"x": 32.6, "y": 5},
+                {"x": 39.8, "y": 5}
+            ]
+        },
+        "numberOfPins": 4,
+        "instantiation": {
+            "kind": "function",
+            "fullyQualifiedName": "sensors.isl29125",
+            "argumentRoles": [
+                {"pinInstantiationIdx": 0}
+            ]
+        },
+        "pinDefinitions": [
+            {"target": "SCL", "style": "male", "orientation": "+Y" },
+            {"target": "SDA", "style": "male", "orientation": "+Y" },
+            {"target": "GND", "style": "male", "orientation": "+Y" },
+            {"target": "3V3", "style": "male", "orientation": "+Y" }
+        ],
+        "assembly": [
+            {"part": true, "pinIndices": [3]},
+            {"pinIndices": [0, 1, 2, 4]}
+        ]
+    }
+}

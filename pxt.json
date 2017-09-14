@@ -1,11 +1,10 @@
 {
-    "name": "isl29125",
+    "name": "pxt-isl29125",
     "version": "0.0.1",
     "description": "ISL29125 RGB Sensor",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
