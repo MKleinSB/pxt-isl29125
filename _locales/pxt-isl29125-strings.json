@@ -1,0 +1,6 @@
+{
+  "sensors.isl29125Color|block": "erkannte RGB Farbe",
+  "sensors.isl29125Reset|block": "ISL RGB Sensor neu starten",
+  "sensors|block": "sensors",
+  "{id:category}Sensors": "Sensors"
+}

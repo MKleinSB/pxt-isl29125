@@ -1,0 +1,5 @@
+{
+  "sensors": "Read data from an ISL-29125 RGB sensor.",
+  "sensors.isl29125Color": "ISL29125 Erkannte Lichtfarbe zurückgeben.",
+  "sensors.isl29125Reset": "ISL29125 Sensor neu starten."
+}
